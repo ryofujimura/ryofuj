@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **ryo.fujimura1@gmail.com**
 
-- ⚡ Fun fact **I've lived in 6 countries.**
+- ⚡ Fun fact **I've lived in 6 countries.** 🇯🇵🇳🇱🇩🇪🇵🇹🇬🇧🇳🇱🇯🇵🇺🇸
 </p>
 <br>
 <h3 align="left">Connect with me:</h3>
