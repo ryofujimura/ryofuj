@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryo Fujimura</h1>
 <h3 align="center">Developer based in Orange, CA.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ryofuj&label=Profile%20views&color=0e75b6&style=flat" alt="ryofuj" /> 
-</p>
+<img src="https://komarev.com/ghpvc/?username=ryofuj&label=Profile%20views&color=0e75b6&style=flat" alt="ryofuj" /> 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryofuj&show_icons=true&locale=en&layout=compact" alt="ryofuj" />
 </p>
